@@ -1,3 +1,6 @@
 hello
 
+
+what if we commit both at different things?
+here the master branch and then commiting 
 apple in in this
