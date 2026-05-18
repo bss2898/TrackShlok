@@ -1,6 +1,2 @@
 hello
-
-apple in in this
-
-
-Oi this commit from 2nd branch
+just hello lol
