@@ -2,3 +2,4 @@ eaThis is an online created file to be downloaded to desktop of git
 this is just for a commit to be shown in tracking field
 
 tomorrow I am going to do a critical step in real time app
+ maybe db
